@@ -1,30 +1,30 @@
 - [Investment & Trading Resources](#investment---trading-resources)
   * [Updated 30 August 2021](#updated-30-august-2021)
-  * [Fundamental Analysis Shorthand & Definitions](#fundamental-analysis-shorthand---definitions)
-  * [Stay Informed](#stay-informed)
-    + [Fintwit (Financial Twitter)](#fintwit--financial-twitter-)
-  * [Tools, Completely or Mostly Free:](#tools--completely-or-mostly-free-)
-    + ["Smörgåsbords"](#-sm-rg-sbords-)
-    + [Sentiment/News/Social Media](#sentiment-news-social-media)
-    + [ETFs](#etfs)
-    + [Economics](#economics)
-  * [Stocks](#stocks)
-    + [Whale tracking:](#whale-tracking-)
-    + [Buying / Selling from Insiders / Institutions](#buying---selling-from-insiders---institutions)
-    + [Short Interest](#short-interest)
+- [Fundamental Analysis Shorthand & Definitions](#fundamental-analysis-shorthand---definitions)
+- [Stay Informed](#stay-informed)
+  * [Fintwit (Financial Twitter)](#fintwit--financial-twitter-)
+- [Tools, Completely or Mostly Free:](#tools--completely-or-mostly-free-)
+  * ["Smörgåsbords"](#-sm-rg-sbords-)
+  * [Sentiment/News/Social Media](#sentiment-news-social-media)
+  * [ETFs](#etfs)
+  * [Economics](#economics)
+- [Stocks](#stocks)
+  * [Whale tracking:](#whale-tracking-)
+  * [Buying / Selling from Insiders / Institutions](#buying---selling-from-insiders---institutions)
+  * [Short Interest](#short-interest)
   * [Options Calculator/Strategy Builder](#options-calculator-strategy-builder)
   * [Data Sources](#data-sources)
-  * [TL;DR or TL;DW](#tl-dr-or-tl-dw)
-    + [Timestamps:](#timestamps-)
-    + [Lynch's Checklist:](#lynch-s-checklist-)
-  * [Courses](#courses)
-    + [Mathematics with Applications in Finance](#mathematics-with-applications-in-finance)
-    + [Additional Linear Algebra Refreshers](#additional-linear-algebra-refreshers)
-  * [Otherwise Unspecified books, articles, guides, etc.:](#otherwise-unspecified-books--articles--guides--etc-)
-  * [ThinkOrSwim Scanners, Studies, & More](#thinkorswim-scanners--studies----more)
-    + [Scanners:](#scanners-)
-    + [Columns & Watchlists:](#columns---watchlists-)
-    + [Charts & Studies:](#charts---studies-)
+- [TL;DR or TL;DW](#tl-dr-or-tl-dw)
+  * [Timestamps:](#timestamps-)
+  * [Lynch's Checklist:](#lynch-s-checklist-)
+- [Courses](#courses)
+  * [Mathematics with Applications in Finance](#mathematics-with-applications-in-finance)
+  * [Additional Linear Algebra Refreshers](#additional-linear-algebra-refreshers)
+- [Otherwise Unspecified books, articles, guides, etc.:](#otherwise-unspecified-books--articles--guides--etc-)
+- [ThinkOrSwim Scanners, Studies, & More](#thinkorswim-scanners--studies----more)
+  * [Scanners:](#scanners-)
+  * [Columns & Watchlists:](#columns---watchlists-)
+  * [Charts & Studies:](#charts---studies-)
 
 # Investment & Trading Resources
 ## Updated 30 August 2021
@@ -32,7 +32,7 @@
 * Recommend resources to me on Discord (Netu#5570) or Twitter (Stephen_Netu).
 * Append ?raw=true to any file URL on this repository (or any file on Github) to get the direct link.
 
-## Fundamental Analysis Shorthand & Definitions
+# Fundamental Analysis Shorthand & Definitions
 * Revenue (TTM)* - The income generated from normal business operations and includes discounts and deductions for returned merchandise.
 	* https://www.investopedia.com/terms/r/revenue.asp
 * *TTM (Trailing 12 Months)*
@@ -53,12 +53,12 @@
 * EPS - Earnings-per-Share - Calculated as a company's profit divided by the outstanding shares of its common stock.
 	* https://www.investopedia.com/terms/e/eps.asp
 
-## Stay Informed
+# Stay Informed
 * I follow a variety of folks for one reason or another.  News sources, specific "furus" (financial gurus), you name it.  I am always open to other sources.  
 * I keep my Twitter feed nice and tidy with https://tweetdeck.twitter.com/ - just ask me if you need help setting it up!
 * *Remember, not everyone here is followed because they post correct information.  Keep your enemies closer.*
 
-### Fintwit (Financial Twitter)
+## Fintwit (Financial Twitter)
 ```
 @kerberos007
 @MikeBloomberg
@@ -117,43 +117,43 @@
 @JHannisdahl
 @MikoMitch
 ```
-## Tools, Completely or Mostly Free:
-### "Smörgåsbords"
+# Tools, Completely or Mostly Free:
+## "Smörgåsbords"
 * https://app.koyfin.com/ - A market "dashboard".  More readily/easily shows you things than a broker might.
 * https://www.chartmill.com/home - Similar to the above, but more focused on fundamental analysis and additional tools.
 * https://grufity.com/ - Lots of information packed together which makes a tough UX, but a lot of information, nonetheless.
 * https://bitcoin.ninja/ - Crypto.
 
-### Sentiment/News/Social Media
+## Sentiment/News/Social Media
 * https://tweetdeck.twitter.com/ - Organize your Twitter to stay on top of news more easily.
 * https://stocktwits.com/ - Keep your enemies closer...
 
-### ETFs
+## ETFs
 * https://www.etfchannel.com/ - See what ETFs are doing, including restructuring/rebalancing and news.
 * https://etfdb.com/screener/ - A screen for ETFs.
 * https://etfdb.com/etfs/ - Alphabetized list.
 * https://etfdb.com/tool/etf-country-exposure-tool/ - Geographic exposure list
 
-### Economics
+## Economics
 * https://oec.world/en/visualize/tree_map/hs92/export/vct/all/show/2018/ - Useful tools to understand Supply and Demand relation between countries and overall economies.
 * https://www.usdebtclock.org/ - This is an indicator of the overall US Economy all on one page.
 
-## Stocks
+# Stocks
 * https://www.highshortinterest.com/ - A convenient sorted database of stocks which have a short interest of over 20 percent.
 * For SEC Filings:
 	* https://www.sec.gov/edgar/searchedgar/companysearch.html
 	* https://sec.report/ 
 
-### Whale tracking:
+## Whale tracking:
 * https://unusualwhales.com/
 * https://whalewisdom.com/
 
-### Buying / Selling from Insiders / Institutions
+## Buying / Selling from Insiders / Institutions
 * https://fintel.io/
 * https://finviz.com/insidertrading.ashx *(Buying / analyst ratings / and news)*
 * http://openinsider.com/ - Find insider action, purchases and sells, to get a feel for what stakeholders are thinking.
 
-### Short Interest
+## Short Interest
 * https://public.ortex.com/ 
 * https://s3partners.com/
 * https://www.finra.org/filing-reporting/regulatory-filing-systems/short-interest - Dates / Times
@@ -167,11 +167,10 @@
 Quandl - https://www.quandl.com/
 IEX Trading - https://iextrading.com/
 
-## TL;DR or TL;DW
+# TL;DR or TL;DW
 **Peter Lynch's *One up on Wall Street***
 *Audiobook: https://youtu.be/4t4DmRhcV5Y*
-
-### Timestamps:
+## Timestamps:
 * Preparing to Invest Summary  29:11
 * Building the Story 30:17
 * Stock Categories 37:04
@@ -188,8 +187,7 @@ IEX Trading - https://iextrading.com/
 * Silly Things Said 1:49:50
 * Long Term View 2:01:50
 * Impact of News Events 2:03:51
-
-### Lynch's Checklist:
+## Lynch's Checklist:
 1. P/e ratio high or low?
 1. % inst ownership - insiders buying/buying back shares?
 1. Balance sheet strong?
@@ -206,23 +204,23 @@ IEX Trading - https://iextrading.com/
 1. Be patient:  a watched stock never boils.
 1. Put as much time as you put into buying a stock that you put into a new refrigerator.
 
-## Courses
-### Mathematics with Applications in Finance
+# Courses
+## Mathematics with Applications in Finance
 *Course Description:*  The purpose of the class is to expose undergraduate and graduate students to the mathematical concepts and techniques used in the financial industry. Mathematics lectures are mixed with lectures illustrating the corresponding application in the financial industry. MIT mathematicians teach the mathematics part while industry professionals give the lectures on applications in finance.
 https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/
 *(As you will need a base-level understanding of linear algebra for this course, I will try and find some simple, approachable refreshers for us.  If you know of any, please send them my way!)*
 
-### Additional Linear Algebra Refreshers
+## Additional Linear Algebra Refreshers
 * Eigenvalues/vectors:  https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors and https://setosa.io/ev/eigenvectors-and-eigenvalues/
 * Covariance matrices:  https://en.wikipedia.org/wiki/Covariance_matrix
 https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
-## Otherwise Unspecified books, articles, guides, etc.:
+# Otherwise Unspecified books, articles, guides, etc.:
 * How to read an annual report (and how it differs from a 10-K)
 	* https://online.hbs.edu/blog/post/how-to-read-an-annual-report
 
-## ThinkOrSwim Scanners, Studies, & More
-### Scanners:
+# ThinkOrSwim Scanners, Studies, & More
+## Scanners:
   * http://tos.mx/cHhOKUW - outperforming relative strength stocks
   * http://tos.mx/3UeKfJS - gap up premarket biotech stocks
   * http://tos.mx/23GRode - bull trend reversal in the middle of pullback
@@ -282,7 +280,7 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
   *   http://tos.mx/IlokCg – *updated* scan Rising IV (in absence of earnings) – NEED to add either bullish or bearish filters if using to find potential breakouts
   *   http://tos.mx/SKhesv – scan for stocks consolidating (ADX < 20) with Implied Volatility rising … aka potential breakout trades
 
-### Columns & Watchlists:
+## Columns & Watchlists:
   * http://tos.mx/yv4httI - % relative volume for today: 
   * http://tos.mx/hy33J9G - avg daily volume // millions: 
   * http://tos.mx/zf1OfoT - % avg true range: 
@@ -316,7 +314,7 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
   *   http://tos.mx/dh4WE4 – Watch List symbols New World
   *   http://tos.mx/MY2OOA – Watch List symbols optionable sector ETFs
 
-### Charts & Studies:
+## Charts & Studies:
   *   http://tos.mx/ozZx1u – alert Relative Vol Std Dev
   *   http://tos.mx/xh6qx6 – alert price 10% or more lower than yesterday’s close. NOTE: automatic reset is already in this alert but you need to click on tiny padlock to unlock it, and How to Notify to make desired selectio
   *   http://tos.mx/chn8QV – chart strategy Donchian_Channel DOWNtrend
