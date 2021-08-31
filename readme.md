@@ -31,63 +31,64 @@
 * *Remember, not everyone here is followed because they post correct information.  Keep your enemies closer.*
 
 #### Fintwit (Financial Twitter)
-> @kerberos007
-
-> @MikeBloomberg
-> @TradeHawk
-> @TraderTexMex
-> @stoolpresidente
-> @OptionsHawk
-> @Bloomberg
-> @SquawkStreet
-> @SquawkCNBC
-> @JoeSquawk
-> @SquawkAlley
-> @cleantechfacts
-> @SDOHnews
-> @ictradingstock
-> @Trading_Sunset
-> @DeItaone
-> @FirstSquawk
-> @IntelCrab
-> @shortablestocks
-> @ScotchStocks
-> @Socratrades
-> @BigTechAlert
-> @realwillmeade
-> @SqueezeMetrics
-> @chamath
-> @jimcramer
-> @elonmusk
-> @YourBoyMilt
-> @jam_croissant
-> @ericaltm
-> @dalter28
-> @vladtenev
-> @sprucepointcap
-> @ctfn_news
-> @kylascan
-> @WhiteResearch
-> @Guruleaks1
-> @yup_its_lily
-> @nope_its_lily
-> @snorlax_support
-> @unusual_whales
-> @final_october
-> @astronautical69
-> @RektHQ
-> @GMEBrad
-> @SharkofTraders
-> @tradinggrounds
-> @TeddyKGBgang
-> @vigtecofficial
-> @StockDweebs
-> @LastMarginCall
-> @MarinerResearch
-> @HumbledTrader18
-> @HindenburgRes
-> @JHannisdahl
-> @MikoMitch
+```
+@kerberos007
+@MikeBloomberg
+@TradeHawk
+@TraderTexMex
+@stoolpresidente
+@OptionsHawk
+@Bloomberg
+@SquawkStreet
+@SquawkCNBC
+@JoeSquawk
+@SquawkAlley
+@cleantechfacts
+@SDOHnews
+@ictradingstock
+@Trading_Sunset
+@DeItaone
+@FirstSquawk
+@IntelCrab
+@shortablestocks
+@ScotchStocks
+@Socratrades
+@BigTechAlert
+@realwillmeade
+@SqueezeMetrics
+@chamath
+@jimcramer
+@elonmusk
+@YourBoyMilt
+@jam_croissant
+@ericaltm
+@dalter28
+@vladtenev
+@sprucepointcap
+@ctfn_news
+@kylascan
+@WhiteResearch
+@Guruleaks1
+@yup_its_lily
+@nope_its_lily
+@snorlax_support
+@unusual_whales
+@final_october
+@astronautical69
+@RektHQ
+@GMEBrad
+@SharkofTraders
+@tradinggrounds
+@TeddyKGBgang
+@vigtecofficial
+@StockDweebs
+@LastMarginCall
+@MarinerResearch
+@HumbledTrader18
+@HindenburgRes
+@JHannisdahl
+@MikoMitch
+```
 
 #### Other Tools, Completely or Mostly Free:
 ##### "Smörgåsbords"
@@ -263,7 +264,7 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
   * http://tos.mx/991uyR – watchlist column BidAskSpread. NOTE: you cannot scan for tight Bid Ask spread, but you can create a scan and Save Query … then open the saved query as a watchlist and sort that watchlist by this custom Bid Ask spread column.
   *   http://tos.mx/xqVPc9 – watchlist column Down 20% or more (Bear Territory). NOTE: add to watchlist of an index to see what percent of the stocks in an index are now in bear territory.
   *   http://tos.mx/ydBCyJ – watchlist column below 50 sma
-  *   http://tos.mx/rYEown – watchlist column below 200 sma. HINT: apply below 50sma and below 200sma to watchlist of Public– >>S&P500 or other index and sort by that column to quickly see how many stocks in that index are currently above/below the 50 or 200 day moving average line watchlist column Bull.
+  *   http://tos.mx/rYEown – watchlist column below 200 sma. HINT: apply below 50sma and below 200sma to watchlist of Public– &P500 or other index and sort by that column to quickly see how many stocks in that index are currently above/below the 50 or 200 day moving average line watchlist column Bull.
   *   http://tos.mx/1XyUB2 – Bear
   *   http://tos.mx/uWbicV – watchlist column Extended Hours Last trade price
   *   http://tos.mx/6IlMBw – watchlist column IV percentile (current IV vs. “normal” IV)
@@ -281,7 +282,7 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
   *   http://tos.mx/fp6vKQ – watchlist column PSAR bullish or bearish
   *   http://tos.mx/LO9Zsi – watchlist column RSI Wilder
   *   http://tos.mx/43abXO – watchlist column StockSizzle (unusual underlying volume)
-  *   http://tos.mx/lqD8d0 – watchlist column (meant to be used on Trade tab option chain – turns red when volume > OI at that strike). HINT: add OpenInt, Volume, and this custom column to your option chain to see how it works
+  *   http://tos.mx/lqD8d0 – watchlist column (meant to be used on Trade tab option chain – turns red when volume OI at that strike). HINT: add OpenInt, Volume, and this custom column to your option chain to see how it works
   *   http://tos.mx/Y19CxH – Watch List symbols Market Relationships
   *   http://tos.mx/cr4gD8 – Watch List symbols Market Relationships (updated)
   *   http://tos.mx/s4dE1f – Watch List symbols Morning Radar indices overview
