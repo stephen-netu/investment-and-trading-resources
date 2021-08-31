@@ -30,25 +30,16 @@
 * Append ?raw=true to any file URL on this repository (or any file on Github) to get the direct link.
 
 # Fundamental Analysis Shorthand & Definitions
-* Revenue (TTM)* - The income generated from normal business operations and includes discounts and deductions for returned merchandise.
-	* https://www.investopedia.com/terms/r/revenue.asp
-* *TTM (Trailing 12 Months)*
-* EV/EBITDA - Earnings before interest, taxes, depreciation, and amortization.
-	* https://www.investopedia.com/terms/e/ebitda.asp
-* P/S - Profits-to-Sales-Ratio - Valuation ratio that compares a company’s stock price to its revenues.
-	* https://www.investopedia.com/terms/p/price-to-salesratio.asp
-* P/E Price-to-Earnings-Ratio - Ratio for valuing a company that measures its current share price relative to its per-share earnings.
-	* https://www.investopedia.com/terms/p/price-earningsratio.asp
-* Price-to-Book Ratio - Comparison of a firm's market capitalization to its book value.
-	* https://www.investopedia.com/terms/p/price-to-bookratio.asp
-* P/CF - Price-to-Cash-to-Share - Ratio is a stock valuation indicator or multiple that measures the value of a stock’s price relative to its operating cash flow per share.
-	* https://www.investopedia.com/terms/p/price-to-cash-flowratio.asp
-* FCF - Price-to-Free-Cash-Flow - Equity valuation metric used to compare a company's per-share market price to its per-share amount of free cash flow (FCF).
-	* https://www.investopedia.com/terms/p/pricetofreecashflow.asp
-* PEG - Price-to-Earnings-to-Growth - P/E ratio divided by the growth rate of its earnings for a specified time period.
-	* https://www.investopedia.com/terms/p/pegratio.asp
-* EPS - Earnings-per-Share - Calculated as a company's profit divided by the outstanding shares of its common stock.
-	* https://www.investopedia.com/terms/e/eps.asp
+* [Revenue (TTM)]*(https://www.investopedia.com/terms/r/revenue.asp) - The income generated from normal business operations and includes discounts and deductions for returned merchandise.
+	** *TTM (Trailing 12 Months)*
+* [EV/EBITDA](https://www.investopedia.com/terms/e/ebitda.asp) - Earnings before interest, taxes, depreciation, and amortization.
+* [P/S - Profits-to-Sales-Ratio](https://www.investopedia.com/terms/p/price-to-salesratio.asp) - Valuation ratio that compares a company’s stock price to its revenues.
+* [P/E Price-to-Earnings-Ratio](https://www.investopedia.com/terms/p/price-earningsratio.asp) - Ratio for valuing a company that measures its current share price relative to its per-share earnings.
+* [Price-to-Book Ratio](https://www.investopedia.com/terms/p/price-to-bookratio.asp) - Comparison of a firm's market capitalization to its book value.
+* [P/CF - Price-to-Cash-to-Share](https://www.investopedia.com/terms/p/price-to-cash-flowratio.asp) - Ratio is a stock valuation indicator or multiple that measures the value of a stock’s price relative to its operating cash flow per share.
+* [FCF - Price-to-Free-Cash-Flow](https://www.investopedia.com/terms/p/pricetofreecashflow.asp) - Equity valuation metric used to compare a company's per-share market price to its per-share amount of free cash flow (FCF).
+* [PEG - Price-to-Earnings-to-Growth](https://www.investopedia.com/terms/p/pegratio.asp) - P/E ratio divided by the growth rate of its earnings for a specified time period.
+* [EPS - Earnings-per-Share](https://www.investopedia.com/terms/e/eps.asp) - Calculated as a company's profit divided by the outstanding shares of its common stock.
 
 # Stay Informed
 * I follow a variety of folks for one reason or another.  News sources, specific "furus" (financial gurus), you name it.  I am always open to other sources.  
