@@ -156,9 +156,8 @@ Quandl - https://www.quandl.com/
 IEX Trading - https://iextrading.com/
 
 # TL;DR or TL;DW
-**Peter Lynch's *One up on Wall Street***
-*Audiobook: https://youtu.be/4t4DmRhcV5Y*
-## Timestamps:
+## [Peter Lynch's *One up on Wall Street*](https://youtu.be/4t4DmRhcV5Y)
+### Timestamps:
 * Preparing to Invest Summary  29:11
 * Building the Story 30:17
 * Stock Categories 37:04
@@ -175,7 +174,7 @@ IEX Trading - https://iextrading.com/
 * Silly Things Said 1:49:50
 * Long Term View 2:01:50
 * Impact of News Events 2:03:51
-## Lynch's Checklist:
+### Lynch's Checklist:
 1. P/e ratio high or low?
 1. % inst ownership - insiders buying/buying back shares?
 1. Balance sheet strong?
