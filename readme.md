@@ -1,5 +1,3 @@
-- [Investment & Trading Resources](#investment---trading-resources)
-  * [Updated 30 August 2021](#updated-30-august-2021)
 - [Fundamental Analysis Shorthand & Definitions](#fundamental-analysis-shorthand---definitions)
 - [Stay Informed](#stay-informed)
   * [Fintwit (Financial Twitter)](#fintwit--financial-twitter-)
@@ -27,8 +25,7 @@
   * [Charts & Studies:](#charts---studies-)
 
 # Investment & Trading Resources
-## Updated 30 August 2021
-
+* Updated 30 August 2021
 * Recommend resources to me on Discord (Netu#5570) or Twitter (Stephen_Netu).
 * Append ?raw=true to any file URL on this repository (or any file on Github) to get the direct link.
 
