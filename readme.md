@@ -26,8 +26,6 @@
     + [Columns & Watchlists:](#columns---watchlists-)
     + [Charts & Studies:](#charts---studies-)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 # Investment & Trading Resources
 ## Updated 30 August 2021
 
