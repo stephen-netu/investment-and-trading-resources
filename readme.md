@@ -1,9 +1,32 @@
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+- [Investment & Trading Resources](#investment---trading-resources)
+  * [Updated 30 August 2021](#updated-30-august-2021)
+  * [Fundamental Analysis Shorthand & Definitions](#fundamental-analysis-shorthand---definitions)
+  * [Stay Informed](#stay-informed)
+    + [Fintwit (Financial Twitter)](#fintwit--financial-twitter-)
+  * [Tools, Completely or Mostly Free:](#tools--completely-or-mostly-free-)
+    + ["Smörgåsbords"](#-sm-rg-sbords-)
+    + [Sentiment/News/Social Media](#sentiment-news-social-media)
+    + [ETFs](#etfs)
+    + [Economics](#economics)
+  * [Stocks](#stocks)
+    + [Whale tracking:](#whale-tracking-)
+    + [Buying / Selling from Insiders / Institutions](#buying---selling-from-insiders---institutions)
+    + [Short Interest](#short-interest)
+  * [Options Calculator/Strategy Builder](#options-calculator-strategy-builder)
+  * [Data Sources](#data-sources)
+  * [TL;DR or TL;DW](#tl-dr-or-tl-dw)
+    + [Timestamps:](#timestamps-)
+    + [Lynch's Checklist:](#lynch-s-checklist-)
+  * [Courses](#courses)
+    + [Mathematics with Applications in Finance](#mathematics-with-applications-in-finance)
+    + [Additional Linear Algebra Refreshers](#additional-linear-algebra-refreshers)
+  * [Otherwise Unspecified books, articles, guides, etc.:](#otherwise-unspecified-books--articles--guides--etc-)
+  * [ThinkOrSwim Scanners, Studies, & More](#thinkorswim-scanners--studies----more)
+    + [Scanners:](#scanners-)
+    + [Columns & Watchlists:](#columns---watchlists-)
+    + [Charts & Studies:](#charts---studies-)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 # Investment & Trading Resources
 ## Updated 30 August 2021
