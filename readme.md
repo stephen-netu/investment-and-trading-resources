@@ -7,7 +7,7 @@
 ### Fundamental Analysis Shorthand & Definitions
 * Revenue (TTM)* - The income generated from normal business operations and includes discounts and deductions for returned merchandise.
 	* https://www.investopedia.com/terms/r/revenue.asp
-* * TTM (Trailing 12 Months)
+* *TTM (Trailing 12 Months)*
 * EV/EBITDA - Earnings before interest, taxes, depreciation, and amortization.
 	* https://www.investopedia.com/terms/e/ebitda.asp
 * P/S - Profits-to-Sales-Ratio - Valuation ratio that compares a company’s stock price to its revenues.
