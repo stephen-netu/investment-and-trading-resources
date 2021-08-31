@@ -32,6 +32,7 @@
 
 #### Fintwit (Financial Twitter)
 > @kerberos007
+
 > @MikeBloomberg
 > @TradeHawk
 > @TraderTexMex
