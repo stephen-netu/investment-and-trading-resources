@@ -31,62 +31,62 @@
 * *Remember, not everyone here is followed because they post correct information.  Keep your enemies closer.*
 
 #### Fintwit (Financial Twitter)
-@kerberos007
-@MikeBloomberg
-@TradeHawk
-@TraderTexMex
-@stoolpresidente
-@OptionsHawk
-@Bloomberg
-@SquawkStreet
-@SquawkCNBC
-@JoeSquawk
-@SquawkAlley
-@cleantechfacts
-@SDOHnews
-@ictradingstock
-@Trading_Sunset
-@DeItaone
-@FirstSquawk
-@IntelCrab
-@shortablestocks
-@ScotchStocks
-@Socratrades
-@BigTechAlert
-@realwillmeade
-@SqueezeMetrics
-@chamath
-@jimcramer
-@elonmusk
-@YourBoyMilt
-@jam_croissant
-@ericaltm
-@dalter28
-@vladtenev
-@sprucepointcap
-@ctfn_news
-@kylascan
-@WhiteResearch
-@Guruleaks1
-@yup_its_lily
-@nope_its_lily
-@snorlax_support
-@unusual_whales
-@final_october
-@astronautical69
-@RektHQ
-@GMEBrad
-@SharkofTraders
-@tradinggrounds
-@TeddyKGBgang
-@vigtecofficial
-@StockDweebs
-@LastMarginCall
-@MarinerResearch
-@HumbledTrader18
-@HindenburgRes
-@JHannisdahl
-@MikoMitch
+> @kerberos007
+> @MikeBloomberg
+> @TradeHawk
+> @TraderTexMex
+> @stoolpresidente
+> @OptionsHawk
+> @Bloomberg
+> @SquawkStreet
+> @SquawkCNBC
+> @JoeSquawk
+> @SquawkAlley
+> @cleantechfacts
+> @SDOHnews
+> @ictradingstock
+> @Trading_Sunset
+> @DeItaone
+> @FirstSquawk
+> @IntelCrab
+> @shortablestocks
+> @ScotchStocks
+> @Socratrades
+> @BigTechAlert
+> @realwillmeade
+> @SqueezeMetrics
+> @chamath
+> @jimcramer
+> @elonmusk
+> @YourBoyMilt
+> @jam_croissant
+> @ericaltm
+> @dalter28
+> @vladtenev
+> @sprucepointcap
+> @ctfn_news
+> @kylascan
+> @WhiteResearch
+> @Guruleaks1
+> @yup_its_lily
+> @nope_its_lily
+> @snorlax_support
+> @unusual_whales
+> @final_october
+> @astronautical69
+> @RektHQ
+> @GMEBrad
+> @SharkofTraders
+> @tradinggrounds
+> @TeddyKGBgang
+> @vigtecofficial
+> @StockDweebs
+> @LastMarginCall
+> @MarinerResearch
+> @HumbledTrader18
+> @HindenburgRes
+> @JHannisdahl
+> @MikoMitch
 
 #### Other Tools, Completely or Mostly Free:
 ##### "Smörgåsbords"
