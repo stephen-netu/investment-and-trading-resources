@@ -1,28 +1,36 @@
 - [Fundamental Analysis Shorthand & Definitions](#fundamental-analysis-shorthand---definitions)
 - [Stay Informed](#stay-informed)
   * [Fintwit (Financial Twitter)](#fintwit--financial-twitter-)
-- [Tools, Completely or Mostly Free](#tools--completely-or-mostly-free-)
+- [Tools, Completely or Mostly Free](#tools--completely-or-mostly-free)
   * ["Smörgåsbords"](#-sm-rg-sbords-)
   * [Sentiment/News/Social Media](#sentiment-news-social-media)
   * [ETFs](#etfs)
   * [Economics](#economics)
 - [Stocks](#stocks)
-  * [Whale tracking](#whale-tracking-)
+  * [Whale Tracking](#whale-tracking)
   * [Buying / Selling from Insiders / Institutions](#buying---selling-from-insiders---institutions)
   * [Short Interest](#short-interest)
   * [Options Calculator/Strategy Builder](#options-calculator-strategy-builder)
   * [Data Sources](#data-sources)
 - [TL;DR or TL;DW](#tl-dr-or-tl-dw)
-  * [Timestamps](#timestamps-)
-  * [Lynch's Checklist](#lynch-s-checklist-)
+  * [[Peter Lynch's *One up on Wall Street*](https://youtu.be/4t4DmRhcV5Y)](#-peter-lynch-s--one-up-on-wall-street---https---youtube-4t4dmrhcv5y-)
+    + [Timestamps](#timestamps)
+    + [Lynch's Checklist](#lynch-s-checklist)
 - [Courses](#courses)
   * [Mathematics with Applications in Finance](#mathematics-with-applications-in-finance)
   * [Additional Linear Algebra Refreshers](#additional-linear-algebra-refreshers)
-- [Otherwise Unspecified books, articles, guides, etc.](#otherwise-unspecified-books--articles--guides--etc-)
+- [Otherwise Unspecified books, articles, guides, etc.](#otherwise-unspecified-books--articles--guides--etc)
 - [ThinkOrSwim Scanners, Studies, & More](#thinkorswim-scanners--studies----more)
-  * [Scanners](#scanners-)
-  * [Columns & Watchlists](#columns---watchlists-)
-  * [Charts & Studies](#charts---studies-)
+  * [Scanners](#scanners)
+  * [Columns & Watchlists](#columns---watchlists)
+  * [Charts & Studies](#charts---studies)
+- [Crypto & NFTs](#crypto---nfts)
+  * [FTM ECO](#ftm-eco)
+  * [Chart](#chart)
+  * [Leverage](#leverage)
+  * [Yield](#yield)
+  * [NFTs](#nfts)
+  * [Trading](#trading)
 
 # Investment & Trading Resources
 * Updated 06 Sept 2021
@@ -31,7 +39,7 @@
 
 # Fundamental Analysis Shorthand & Definitions
 * [Revenue (TTM)](https://www.investopedia.com/terms/r/revenue.asp)* - The income generated from normal business operations and includes discounts and deductions for returned merchandise.
-	* *TTM (Trailing 12 Months)*
+  * *TTM (Trailing 12 Months)*
 * [EV/EBITDA](https://www.investopedia.com/terms/e/ebitda.asp) - Earnings before interest, taxes, depreciation, and amortization.
 * [P/S - Profits-to-Sales-Ratio](https://www.investopedia.com/terms/p/price-to-salesratio.asp) - Valuation ratio that compares a company’s stock price to its revenues.
 * [P/E Price-to-Earnings-Ratio](https://www.investopedia.com/terms/p/price-earningsratio.asp) - Ratio for valuing a company that measures its current share price relative to its per-share earnings.
@@ -105,7 +113,7 @@
 @JHannisdahl
 @MikoMitch
 ```
-# Tools, Completely or Mostly Free:
+# Tools, Completely or Mostly Free
 ## "Smörgåsbords"
 * https://app.koyfin.com/ - A market "dashboard".  More readily/easily shows you things than a broker might.
 * https://www.chartmill.com/home - Similar to the above, but more focused on fundamental analysis and additional tools.
@@ -129,10 +137,10 @@
 # Stocks
 * https://www.highshortinterest.com/ - A convenient sorted database of stocks which have a short interest of over 20 percent.
 * For SEC Filings:
-	* https://www.sec.gov/edgar/searchedgar/companysearch.html
-	* https://sec.report/ 
+  * https://www.sec.gov/edgar/searchedgar/companysearch.html
+  * https://sec.report/ 
 
-## Whale tracking:
+## Whale Tracking
 * https://unusualwhales.com/
 * https://whalewisdom.com/
 
@@ -145,7 +153,7 @@
 * https://public.ortex.com/ 
 * https://s3partners.com/
 * https://www.finra.org/filing-reporting/regulatory-filing-systems/short-interest - Dates / Times
-	* *(This is reported to FINRA and will usually be updated in your brokerage and on a wealth of free sites. This is required every twice a month I believe, with a lag of 2-3 days for filing.  I.e.:  required to report short position the 15th, filed on the 17th (second business day after settlement), shared with public on the the 29th.)*
+  * *(This is reported to FINRA and will usually be updated in your brokerage and on a wealth of free sites. This is required every twice a month I believe, with a lag of 2-3 days for filing.  I.e.:  required to report short position the 15th, filed on the 17th (second business day after settlement), shared with public on the the 29th.)*
 * https://www.nyse.com/regulation/threshold-securities - Regulation SHO - NYSE Threshold Security List
 
 ## Options Calculator/Strategy Builder
@@ -157,7 +165,7 @@ IEX Trading - https://iextrading.com/
 
 # TL;DR or TL;DW
 ## [Peter Lynch's *One up on Wall Street*](https://youtu.be/4t4DmRhcV5Y)
-### Timestamps:
+### Timestamps
 * Preparing to Invest Summary  29:11
 * Building the Story 30:17
 * Stock Categories 37:04
@@ -174,7 +182,7 @@ IEX Trading - https://iextrading.com/
 * Silly Things Said 1:49:50
 * Long Term View 2:01:50
 * Impact of News Events 2:03:51
-### Lynch's Checklist:
+### Lynch's Checklist
 1. P/e ratio high or low?
 1. % inst ownership - insiders buying/buying back shares?
 1. Balance sheet strong?
@@ -202,12 +210,12 @@ https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-appli
 * Covariance matrices:  https://en.wikipedia.org/wiki/Covariance_matrix
 https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
-# Otherwise Unspecified books, articles, guides, etc.:
+# Otherwise Unspecified books, articles, guides, etc.
 * How to read an annual report (and how it differs from a 10-K)
-	* https://online.hbs.edu/blog/post/how-to-read-an-annual-report
+  * https://online.hbs.edu/blog/post/how-to-read-an-annual-report
 
 # ThinkOrSwim Scanners, Studies, & More
-## Scanners:
+## Scanners
   * http://tos.mx/cHhOKUW - outperforming relative strength stocks
   * http://tos.mx/3UeKfJS - gap up premarket biotech stocks
   * http://tos.mx/23GRode - bull trend reversal in the middle of pullback
@@ -267,7 +275,7 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
   *   http://tos.mx/IlokCg – *updated* scan Rising IV (in absence of earnings) – NEED to add either bullish or bearish filters if using to find potential breakouts
   *   http://tos.mx/SKhesv – scan for stocks consolidating (ADX < 20) with Implied Volatility rising … aka potential breakout trades
 
-## Columns & Watchlists:
+## Columns & Watchlists
   * http://tos.mx/yv4httI - % relative volume for today: 
   * http://tos.mx/hy33J9G - avg daily volume // millions: 
   * http://tos.mx/zf1OfoT - % avg true range: 
@@ -301,7 +309,7 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
   *   http://tos.mx/dh4WE4 – Watch List symbols New World
   *   http://tos.mx/MY2OOA – Watch List symbols optionable sector ETFs
 
-## Charts & Studies:
+## Charts & Studies
   *   http://tos.mx/ozZx1u – alert Relative Vol Std Dev
   *   http://tos.mx/xh6qx6 – alert price 10% or more lower than yesterday’s close. NOTE: automatic reset is already in this alert but you need to click on tiny padlock to unlock it, and How to Notify to make desired selectio
   *   http://tos.mx/chn8QV – chart strategy Donchian_Channel DOWNtrend
@@ -614,3 +622,46 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
   *   http://tos.mx/TO4llT
   *   http://tos.mx/ZR7BfU
   *   http://tos.mx/u2Srym
+
+# Crypto & NFTs
+## FTM ECO
+https://spookyswap.finance/ (BOO/xBOO)
+https://swap.spiritswap.finance/ (Spirit/Inspirit)
+https://waka.finance/
+https://elk.finance/
+https://paintswap.finance/ (NFT)
+
+## Chart
+https://charts.zoocoin.cash/
+https://kek.tools/
+
+## Leverage
+https://www.tarot.to/
+https://scream.sh/
+https://app.cream.finance/
+
+## Yield
+https://fantom.beefy.finance/
+https://www.reaper.farm/
+https://ftm.curve.fi/
+https://stakesteak.com/
+https://app.grim.finance/
+https://www.robo-vault.com/
+https://paintswap.finance/
+https://www.liquiddriver.finance/
+https://fbomb.finance/
+https://app.tosdis.finance/farming
+https://hyperjump.fi/
+https://totemfinance.app/
+https://www.babyboo.cc/
+
+## NFTs
+https://gantomst.one/
+https://www.worldofumans.com/
+http://officialnftees.com/
+https://foracle.art/
+https://www.fantums.com/
+https://babydao.finance/nft
+
+## Trading
+https://unidex.exchange/
