@@ -625,43 +625,43 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
 
 # Crypto & NFTs
 ## FTM ECO
-https://spookyswap.finance/ (BOO/xBOO)
-https://swap.spiritswap.finance/ (Spirit/Inspirit)
-https://waka.finance/
-https://elk.finance/
-https://paintswap.finance/ (NFT)
+* https://spookyswap.finance/ (BOO/xBOO)
+* https://swap.spiritswap.finance/ (Spirit/Inspirit)
+* https://waka.finance/
+* https://elk.finance/
+* https://paintswap.finance/ (NFT)
 
 ## Chart
-https://charts.zoocoin.cash/
-https://kek.tools/
+* https://charts.zoocoin.cash/
+* https://kek.tools/
 
 ## Leverage
-https://www.tarot.to/
-https://scream.sh/
-https://app.cream.finance/
+* https://www.tarot.to/
+* https://scream.sh/
+* https://app.cream.finance/
 
 ## Yield
-https://fantom.beefy.finance/
-https://www.reaper.farm/
-https://ftm.curve.fi/
-https://stakesteak.com/
-https://app.grim.finance/
-https://www.robo-vault.com/
-https://paintswap.finance/
-https://www.liquiddriver.finance/
-https://fbomb.finance/
-https://app.tosdis.finance/farming
-https://hyperjump.fi/
-https://totemfinance.app/
-https://www.babyboo.cc/
+* https://fantom.beefy.finance/
+* https://www.reaper.farm/
+* https://ftm.curve.fi/
+* https://stakesteak.com/
+* https://app.grim.finance/
+* https://www.robo-vault.com/
+* https://paintswap.finance/
+* https://www.liquiddriver.finance/
+* https://fbomb.finance/
+* https://app.tosdis.finance/farming
+* https://hyperjump.fi/
+* https://totemfinance.app/
+* https://www.babyboo.cc/
 
 ## NFTs
-https://gantomst.one/
-https://www.worldofumans.com/
-http://officialnftees.com/
-https://foracle.art/
-https://www.fantums.com/
-https://babydao.finance/nft
+* https://gantomst.one/
+* https://www.worldofumans.com/
+* http://officialnftees.com/
+* https://foracle.art/
+* https://www.fantums.com/
+* https://babydao.finance/nft
 
 ## Trading
-https://unidex.exchange/
+* https://unidex.exchange/
