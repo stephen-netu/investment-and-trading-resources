@@ -13,7 +13,7 @@
   * [Options Calculator/Strategy Builder](#options-calculator-strategy-builder)
   * [Data Sources](#data-sources)
 - [TL;DR or TL;DW](#tl-dr-or-tl-dw)
-  * [[Peter Lynch's *One up on Wall Street*](https://youtu.be/4t4DmRhcV5Y)](#-peter-lynch-s--one-up-on-wall-street---https---youtube-4t4dmrhcv5y-)
+  * [[Peter Lynch's *One up on Wall Street*](#-peter-lynch-s--one-up-on-wall-street)
     + [Timestamps](#timestamps)
     + [Lynch's Checklist](#lynch-s-checklist)
 - [Courses](#courses)
