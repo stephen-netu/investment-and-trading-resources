@@ -308,6 +308,10 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
   *   http://tos.mx/s4dE1f – Watch List symbols Morning Radar indices overview
   *   http://tos.mx/dh4WE4 – Watch List symbols New World
   *   http://tos.mx/MY2OOA – Watch List symbols optionable sector ETFs
+  *   https://tos.mx/HsRcAL8 – Option chain naive GEX calculation with thermometer color
+  *   https://tos.mx/f62FzIO - Option chain volume with thermometer color
+  *   https://tos.mx/dswMF9O - Option chain contract price as a ratio of underlying price
+
 
 ## Charts & Studies
   *   http://tos.mx/ozZx1u – alert Relative Vol Std Dev
